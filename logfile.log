@@ -729,3 +729,13 @@ Session ID: dc962efd02168a7727b5672cd9e9b9bd
 2021-10-03 19:52:09,870 INFO  [Log] checkPrice() PASSED 
 2021-10-03 19:52:10,288 ERROR [Log] productCountIncrease() FAILED with cause : For input string: "" 
 2021-10-03 19:52:11,695 INFO  [Log] deleteProduct() PASSED 
+2021-10-03 19:56:15,053 INFO  [Log] openMainUrl() PASSED 
+2021-10-03 19:56:16,985 INFO  [Log] loginPage() PASSED 
+2021-10-03 19:56:20,700 INFO  [Log] signIn() PASSED 
+2021-10-03 19:56:22,879 INFO  [Log] searchProduct() PASSED 
+2021-10-03 19:56:25,203 INFO  [Log] scrollPage() PASSED 
+2021-10-03 19:56:31,409 INFO  [Log] selectProduct() PASSED 
+2021-10-03 19:56:31,728 ERROR [Log] addProductToCart() FAILED with cause : For input string: "" 
+2021-10-03 19:56:34,497 INFO  [Log] checkPrice() PASSED 
+2021-10-03 19:56:35,075 ERROR [Log] productCountIncrease() FAILED with cause : For input string: "" 
+2021-10-03 19:56:35,939 INFO  [Log] deleteProduct() PASSED 
